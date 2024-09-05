@@ -1,0 +1,1 @@
+Initialization of back-end API project using NestJS and MongoDB
