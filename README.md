@@ -38,7 +38,7 @@ Here's what it must contain :
 
 ## Usage & Endpoints
 
-This API serves to create posts for blogs websites. A post is defined by a title, a description, a body, an author and a date. See more `src/blog/schemas/blog.schema.ts` for types.
+This API serves to create posts for blogs websites. A post is defined by a title, a description, a body, an author and a date. See more in the following file `src/blog/schemas/blog.schema.ts` for types.
 
 BaseUrl => http://localhost:5000/blog
 
