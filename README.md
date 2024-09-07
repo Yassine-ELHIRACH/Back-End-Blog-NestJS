@@ -42,7 +42,7 @@ This API serves to create posts for blogs websites. A post is defined by a title
 
 BaseUrl => http://localhost:5000/blog
 
-- `GET` /posts => fetch all post
+- `GET` /posts => fetch all posts
 - `GET` /post/:IDpost => fetch a particular post
 - `POST` /post => Add a post with informations specified in the body *requires Authentification*
 - `PUT` /edit => Edit a post who's ID is specified in the Body by the field postID *requires Authentification*
