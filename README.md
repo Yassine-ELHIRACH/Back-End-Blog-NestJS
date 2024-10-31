@@ -48,4 +48,6 @@ BaseUrl => http://localhost:5000/blog
 - `PUT` /edit => Edit a post who's ID is specified in the Body by the field postID *requires Authentification*
 - `DELETE` /delete => delete a post who's ID is specified in the Body by the field postID *requires Authentification*
 
+Link of the Front-End side of this project : https://github.com/Yassine-ELHIRACH/Front-End-Blog-ReactTS
+
 
